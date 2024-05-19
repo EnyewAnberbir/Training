@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    padding-left: 0;
+    height: 52px;
+    padding-top: 2px;
+    padding-left: 10%;
+    padding-bottom: 10px;
+    background-color: #bfe5b1;
+}
+.navbar{
+    width: 99%;
+    display: flex;
+    padding: 10px 0 4px 0;
+    margin-top: 10px;
+}
+.navbar div{
+    padding-right: 22px;
+    text-align: center;
+}
+.navbar div a{
+    text-decoration: none;
+    font-size: medium;
+}
+.student{
+    margin-right: 450px;
+}

@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.footer{
+    padding-top: 2%;
+    height: 100px;
+    background-color:#282828;
+    text-align: center;
+    color: white;
+}
+.footer div{
+    display:flex;
+    
+}
+.footer a{
+    text-decoration: none;
+    color: white;
+}
+.foter{
+    justify-content: center
+    
+}
+.foter div{
+    margin-right: 20px;
+}
+.foter div a{
+text-decoration: none;
+color: white;}
